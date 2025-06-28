@@ -1,0 +1,13 @@
+name = "Knight Quest"
+filename = "knightquest-forge-1.20.1-1.8.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/1nCvg35N/knightquest-forge-1.20.1-1.8.7.jar"
+hash-format = "sha512"
+hash = "a57f51e9deb8e922174fa1a5a9c40a2bf12efb7000c472a0bffd8aae1e4d5865927d2003e1a507af260216660369b2ef83255aa2839c54a5927af11e1245452d"
+
+[update]
+[update.modrinth]
+mod-id = "VEOQ4Jz4"
+version = "1nCvg35N"

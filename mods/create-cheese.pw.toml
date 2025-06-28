@@ -1,0 +1,13 @@
+name = "Create: Cheese Factory [Forge/NeoForge]"
+filename = "create_cheese_factory-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mdJuXlKN/versions/d1uE3rJp/create_cheese_factory-1.2.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "882257c2979125b2401dbdfdb0d7e9ab530e4980b41f0f6a54e7caab236e00a27ece017025f34395d8958c03cb6c836110a055d32812fbc3c66f26a1106120f2"
+
+[update]
+[update.modrinth]
+mod-id = "mdJuXlKN"
+version = "d1uE3rJp"

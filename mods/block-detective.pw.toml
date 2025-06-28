@@ -1,0 +1,13 @@
+name = "Block Detective"
+filename = "Particle_Spawner-1.20.x-(v.1.2.0).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RM68pWOq/versions/FUbj0O94/Particle_Spawner-1.20.x-%28v.1.2.0%29.jar"
+hash-format = "sha512"
+hash = "c07e6b8a4215388909c592a38f580019ae09ca07c3804b737b2fb69f27a832333e0e51481326465c5c87b2f1277bb8b771d35b9e522998f42df771ae6f7cae16"
+
+[update]
+[update.modrinth]
+mod-id = "RM68pWOq"
+version = "FUbj0O94"
