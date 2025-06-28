@@ -25,11 +25,6 @@ hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "293199de1076b8d4ff748f7c473499ed62042ace7f6bb7ccd58a1c87379b95a3"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -757,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "9bdb271dbb28d79131ce6e4a341ef9eb0843b9d36852fbcb4bb151a5417f6d7e"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "71e14885c905d1514df3a5263375c044daca44c1f223b796e0bff447fd363131"
 metafile = true
 
 [[files]]
