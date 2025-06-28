@@ -75,6 +75,11 @@ hash = "d93c45f82380a6812335c3ea386c64b787d916201d89333f742981e254b69aa8"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "b2c6bf22095b057d05343d1ec261d0af59f83420ac296375aaaeabf1e8973c55"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "55d1ae59844b8f0ad35fca9d8300268c7b4c6cb9b9b098fe1ed14967a43ac10f"
 metafile = true
@@ -755,11 +760,6 @@ hash = "9bdb271dbb28d79131ce6e4a341ef9eb0843b9d36852fbcb4bb151a5417f6d7e"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "71e14885c905d1514df3a5263375c044daca44c1f223b796e0bff447fd363131"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "8a72c34f31d93ad7b952a2bcc3f3714c29ddf4d8b34b484135cddd66fdb83f3f"
 metafile = true
@@ -947,6 +947,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "805923605b3496a2e8c9bc234c3f64e37769ae6777790afc38f781eba00e96ef"
 metafile = true
 
 [[files]]
