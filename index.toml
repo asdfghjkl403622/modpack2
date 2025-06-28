@@ -190,11 +190,6 @@ hash = "c242a578132ba42ec44127ee59a33c7eaade7cc7db22be19b2a195d44409d516"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
-metafile = true
-
-[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
@@ -347,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "6e3de42267e18b37ba96d27a8cf0a147d427caaa95e529784ee3b44832666953"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b0ccdb103b9dc809d726d96d5761b9e78470202128c48a1659d15bd590ecb9df"
 metafile = true
 
 [[files]]
@@ -745,11 +735,6 @@ hash = "7dcd9a76d74b57f0fba9444a4320dd3105fad49ec46fc4b9ad4c0f3d250abcca"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "d4eeb6fb9c4296ad9d7cbb869f6e7b24712605bf9168c7e94832cb0830ef680a"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
 metafile = true
@@ -912,11 +897,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
-metafile = true
-
-[[files]]
-file = "mods/yes-steve-model.pw.toml"
-hash = "67c51f78fbe2063a546ce15642fb0d317666e8c0d1e2eb2a1a3742e13ab51242"
 metafile = true
 
 [[files]]
