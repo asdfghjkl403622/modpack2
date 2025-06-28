@@ -55,11 +55,6 @@ hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "28d7d023461aad3c74e3ee97d7d40b9a002583dfdc3e077c56a3bea57f536597"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "a86ce796ebf9141ed1bd0bff0446f3f06a63f588245bb3d206364968ba1f83a6"
 metafile = true
@@ -570,6 +565,11 @@ hash = "33ac8df50343a510256bb78c4dca99014fd4f88fdb548edd8aed6a3013f8947e"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "b96820a9c0b9a7b302572ce8fb6d9c654eb7e4aad535db738f9066b2150e9369"
+metafile = true
+
+[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "02339d0e95b7fec78a21c9774faaba03521998804a4c047cd4913098eaac14a1"
 metafile = true
@@ -582,11 +582,6 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "70bd76457fcd02b797eeaad3e88c3390b88d0e8bd15d7100631c41401953926e"
-metafile = true
-
-[[files]]
-file = "mods/mobs-of-mythology.pw.toml"
-hash = "d7740f59539653e194395e02333a0e9e9a142501d2561c30c64421f028572f79"
 metafile = true
 
 [[files]]
