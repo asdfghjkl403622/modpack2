@@ -955,11 +955,6 @@ hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
 metafile = true
 
 [[files]]
-file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "805923605b3496a2e8c9bc234c3f64e37769ae6777790afc38f781eba00e96ef"
-metafile = true
-
-[[files]]
 file = "mods/zume.pw.toml"
 hash = "5f93c4032ce70f41db4e0cc80356e80320f2089d230101dc0f7dab89cdc4fc3b"
 metafile = true
