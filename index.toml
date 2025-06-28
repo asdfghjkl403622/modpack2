@@ -580,11 +580,6 @@ hash = "70bd76457fcd02b797eeaad3e88c3390b88d0e8bd15d7100631c41401953926e"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
-metafile = true
-
-[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
 metafile = true
