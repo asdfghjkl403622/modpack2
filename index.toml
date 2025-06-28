@@ -160,11 +160,6 @@ hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "ca43d1d5d1fa857d722f83e07581c5020e17c189cc2d409c863514c6454431f4"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "eea69f3a65f3538943c7d38e3176b4eea76b36147e53ce5ca46cb9531a618364"
 metafile = true
@@ -242,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "fbae074cb8848772d14d68a1281a1ed92fcc8660170b7b361b1ef5c81f3cad21"
-metafile = true
-
-[[files]]
-file = "mods/create-trading-floor.pw.toml"
-hash = "9febb128660a6bd9e7518237f42ff38c59835050fec105fad76b853356fc4bef"
 metafile = true
 
 [[files]]
@@ -440,11 +430,6 @@ hash = "26f033943fda1183802bb7695fc54b77662644e6add2999432b6dc5171285836"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
-metafile = true
-
-[[files]]
 file = "mods/goated.pw.toml"
 hash = "43cb463e7f9da338a1124031efa35ba8b5ed75b1f2796f066b5b324e85c17738"
 metafile = true
@@ -487,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
-metafile = true
-
-[[files]]
-file = "mods/jamlib.pw.toml"
-hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
 metafile = true
 
 [[files]]
@@ -787,11 +767,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "eadee80c00951a2fb9751641ac9222c9472e47eff0f150291a93f0c4ef061d7d"
 metafile = true
 
 [[files]]
