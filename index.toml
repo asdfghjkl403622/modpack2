@@ -780,11 +780,6 @@ hash = "277b5cbb0f5c2fbd1398e13f290e13244e3fad8f818f2181575f9c997284c59b"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "25e33e191e601b88d0a230e95541e63e69ab76b46e63687ea74b336539b056c8"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "9bdb271dbb28d79131ce6e4a341ef9eb0843b9d36852fbcb4bb151a5417f6d7e"
 metafile = true
