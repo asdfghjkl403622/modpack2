@@ -915,18 +915,8 @@ hash = "e1bec15f8a15bd6bed347f3c48aa74d0114bdc98a6bc37a501b85e5f2656c613"
 metafile = true
 
 [[files]]
-file = "mods/xaero-zoomout.pw.toml"
-hash = "aa39964b43e3a3838be07bb4290449926007b3449504cdf9d51496c1868def73"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "706420069724cb39b5cc44c7954ef40c23d81488ee0b88791ff3fd849553e8ab"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "5cbaea012e19483f14dfdc26181a86b6b2bc8ec2f8b757260ce1d8d0ff101979"
 metafile = true
 
 [[files]]
