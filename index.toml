@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "a38813ee983c68e3e45261c45e1fb70e60e57ab7b11c3f3c401da1cf551ad3ea"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "d8fc7d66ed96874e8185ac47d1a52507248eaa0d6c2b2ca38011b62ff52356db"
 metafile = true
@@ -276,6 +280,11 @@ hash = "49ee9e70c1fbe31784911c5195440a8149a83b0266b4dd1021e69bf7781cb051"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "34dff36d563450c884bc42fe0f22ef526b5b14fc2d16bb1620c432c8d9c545ff"
 metafile = true
@@ -483,11 +492,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-archaeology.pw.toml"
-hash = "f222191613aeed690136f205c906cdde6363d58bf0a3604515abcea73f5e482d"
 metafile = true
 
 [[files]]
