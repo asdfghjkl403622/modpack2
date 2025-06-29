@@ -175,11 +175,6 @@ hash = "0d2af99a5efb2c1ec10180c7c91d8469c0b7eacd7b186432485e61a51fae2d29"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "3d431fb730389a29bea4e933b6c9052760c0b780a4a1145f63ed046717f10417"
-metafile = true
-
-[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "b04f3690005952fb2f0d93b742a00d4b25547cbb4e2975aaca89fb0af58a9539"
 metafile = true
@@ -475,11 +470,6 @@ hash = "4940a95ccc3e64748655a4e9fa4ce866f3a85da1bba7e9f3d0a3b4741dd4b679"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "e01c4925198bbcfd4cb3c00e0f89db7a45d3b56a3812b84b9b10535ab9455a28"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
 metafile = true
@@ -525,11 +515,6 @@ hash = "3a6a4bc106487188e23f821b9db1fd6faa4b3e66450809e586cc12e0c8356338"
 metafile = true
 
 [[files]]
-file = "mods/fowlplay.pw.toml"
-hash = "01d4760a21a060336f461383acd2426c0bcee4aead0cec0ea8b154b03c0ecb22"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "37f1b3f45cb39418f5c309b6d17cf5c2a7038fd1d3dee9619610b83a94db449a"
 metafile = true
@@ -547,11 +532,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
-metafile = true
-
-[[files]]
-file = "mods/genderless.pw.toml"
-hash = "a59cf87ca88a44455dfc859f30cc80865d694513345e864609a5de354e3c3b03"
 metafile = true
 
 [[files]]
@@ -1130,18 +1110,8 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/testosterone.pw.toml"
-hash = "bd827a61ced28cfca4fb9378b753f93e674aa32c06a3da3e8358dc44b9ba443a"
-metafile = true
-
-[[files]]
 file = "mods/tetra.pw.toml"
 hash = "adcdb792184dc175d3cc7c80bc27c4ef8631da4a50f59e2612c4835b7b9a4cb0"
-metafile = true
-
-[[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "a3ff68906b92808a1e5c9a6b0d5f3539b3d8b8ffa81d4939f844469d732ffe35"
 metafile = true
 
 [[files]]
@@ -1207,11 +1177,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "3c38e91f0850f9e02060424223c38ba49e9cd5f87aad4c6d5190bfdf796d52e6"
-metafile = true
-
-[[files]]
-file = "mods/useful-slime.pw.toml"
-hash = "2bebb9b26330931613afc70f9d2c1e58fad667a75b9553ae5c21a9926594a3c3"
 metafile = true
 
 [[files]]
