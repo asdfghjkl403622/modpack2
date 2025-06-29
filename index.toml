@@ -160,11 +160,6 @@ hash = "08436b224ddf773e3a3557a0812b5891aa5a57bc9541c6549c3696c00ad15ec7"
 metafile = true
 
 [[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "2d4270ad358b3291d5e6ed55fe1adf16ebae0ac1d883d4902710aea8496b582f"
-metafile = true
-
-[[files]]
 file = "mods/cave-dweller-evolved.pw.toml"
 hash = "fa52f73b4a98378092e9194dc325e98f9339c2855d1ada185e8c3ba004ea39cb"
 metafile = true
@@ -420,11 +415,6 @@ hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
 metafile = true
 
 [[files]]
-file = "mods/effecttimerplus.pw.toml"
-hash = "1a52f666a55c8842f8c42b3f9b699b36dc08ccb570e1ce66b91994de815190f0"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "f1fab011589f5bf6d86956f07da36f62ce9dc811ccb02a39566cecbf4c02bdd3"
 metafile = true
@@ -642,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/laser-bridges-and-doors.pw.toml"
 hash = "895d915347a563bcc3fd3382d9700c816652dcd4575a2cffc5435bf57c45e1e4"
-metafile = true
-
-[[files]]
-file = "mods/lighty.pw.toml"
-hash = "361165764c8664216295d00627ed2a7d34274c3e02cd899f7526c26bb7005f82"
 metafile = true
 
 [[files]]
@@ -970,11 +955,6 @@ hash = "25ce90c7b2078b848d6aec653262eaf4906c6c2c35f1ce323343b1e2a5fe1d89"
 metafile = true
 
 [[files]]
-file = "mods/rainboows.pw.toml"
-hash = "768ceab9247faa36690099e0b9e825f2dfa4bdf535513a4227f41bf879631bbd"
-metafile = true
-
-[[files]]
 file = "mods/random-village-names.pw.toml"
 hash = "bd33f76ad3bbe85b586ee3980eb9099db7696b4aa236b61a80b5a3977805a65c"
 metafile = true
@@ -1270,16 +1250,6 @@ hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
 metafile = true
 
 [[files]]
-file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "805923605b3496a2e8c9bc234c3f64e37769ae6777790afc38f781eba00e96ef"
-metafile = true
-
-[[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
-metafile = true
-
-[[files]]
-file = "mods/zume.pw.toml"
-hash = "5f93c4032ce70f41db4e0cc80356e80320f2089d230101dc0f7dab89cdc4fc3b"
 metafile = true
