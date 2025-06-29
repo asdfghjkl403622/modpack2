@@ -340,11 +340,6 @@ hash = "37548a07bb931c022c074d2310aab827ed2d74b7e73032c5b328bb2b6fb0514f"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "49ee9e70c1fbe31784911c5195440a8149a83b0266b4dd1021e69bf7781cb051"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
