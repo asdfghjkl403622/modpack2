@@ -420,11 +420,6 @@ hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
 
 [[files]]
-file = "mods/duckling.pw.toml"
-hash = "ff6534dcb43dd78b4758a8e9b6cf9d473f71c295a3ad0c70e8fc4e75a1464d84"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
 metafile = true
