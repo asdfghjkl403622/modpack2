@@ -1,0 +1,13 @@
+name = "Mo-Variants"
+filename = "mo-variants-7.7.0-b.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/alk9mtOr/versions/Feda1opp/mo-variants-7.7.0-b.7.jar"
+hash-format = "sha512"
+hash = "97a74cd90017d3fd8c3fde895833ac72e8ca011c2ca102759ca2700078289590476e940af60ec2eecb32a9a5290cc89c99f56b8c0f9a08b4dd8f9cdf807f526a"
+
+[update]
+[update.modrinth]
+mod-id = "alk9mtOr"
+version = "Feda1opp"

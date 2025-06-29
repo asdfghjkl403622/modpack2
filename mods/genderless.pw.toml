@@ -1,0 +1,13 @@
+name = "Create: Genderless"
+filename = "genderless-1.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FtgGejHS/versions/JkaXvZKw/genderless-1.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "bad45b9955588050cb77d3819e2efe089259d5f9651eda167b250603d38d192a1181531935c55a31d324bca5644898fbbc1a09f435479181e210ec6710a807b2"
+
+[update]
+[update.modrinth]
+mod-id = "FtgGejHS"
+version = "JkaXvZKw"

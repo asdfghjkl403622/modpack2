@@ -1,0 +1,13 @@
+name = "Mo Glass"
+filename = "Mo-Glass-1.7.1-MC1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SI5mk2b6/versions/K7llFADq/Mo-Glass-1.7.1-MC1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "a1bffbae06257b6b3e3458dc98a59760a5aac52f953ce62b756fc7554664316a01e8668874a56d5afe5f12b3824c34b316e9019cd213c57c026bc89b48219661"
+
+[update]
+[update.modrinth]
+mod-id = "SI5mk2b6"
+version = "K7llFADq"

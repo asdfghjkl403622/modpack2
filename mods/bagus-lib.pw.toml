@@ -1,0 +1,13 @@
+name = "Bagus Lib"
+filename = "bagus_lib-1.20.1-5.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/95nSN4Rd/versions/VU7aEpro/bagus_lib-1.20.1-5.3.0.jar"
+hash-format = "sha512"
+hash = "a9494f3d4692c0fc7a2065f767b947513bdcbc02d905176e9b28b3ad8e2d18fe390d56abef13cb8093a831f76911245ea035c8cfdc2993d64a6db997632406eb"
+
+[update]
+[update.modrinth]
+mod-id = "95nSN4Rd"
+version = "VU7aEpro"

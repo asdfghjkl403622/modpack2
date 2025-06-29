@@ -1,0 +1,13 @@
+name = "Pandora's Box"
+filename = "pandorasbox-2.3.6-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yp54zbH9/versions/kk6y3rks/pandorasbox-2.3.6-1.20.jar"
+hash-format = "sha512"
+hash = "2b7801bbd7cafe8e2d24e998bd4702c3c70483dc1888843fb7660a7be9d89a3818ed181047fcb7a881e64f0ec9b41589ec8723bf001d760da756b3b4bfd029a0"
+
+[update]
+[update.modrinth]
+mod-id = "yp54zbH9"
+version = "kk6y3rks"

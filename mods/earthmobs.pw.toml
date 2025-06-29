@@ -1,0 +1,13 @@
+name = "EarthMobs"
+filename = "earthmobsmod-1.20.1-10.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XXnAl6q1/versions/l8g8eoEi/earthmobsmod-1.20.1-10.5.0.jar"
+hash-format = "sha512"
+hash = "886f1ab02f38c2268e345b51b28311ae398269a8bb1428cca083912250019ae408f785bd999d50735a88244a2feeb6b18a3e68d81b27eb4a373ae30eeeaa005e"
+
+[update]
+[update.modrinth]
+mod-id = "XXnAl6q1"
+version = "l8g8eoEi"
