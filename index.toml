@@ -470,11 +470,6 @@ hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "e037c5b396af448943e1d14f8d601c63f5426060c5bc2b71b56dde8302161e1d"
-metafile = true
-
-[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "5738656b3ce3291e66f58bd520526fad7815261f26a12a92a8c8207086d86fed"
 metafile = true
