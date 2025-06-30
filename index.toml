@@ -410,6 +410,36 @@ hash = "7e760286c1ef73a5fe82e2ca8b542672eb34b86a36cf44eb8b3e48ac94c40d0e"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "46d4c949ae536fe659e4b49750c5cd737e78e89e7daac603db336b3cb7a3b176"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "fe3b678eca599ed26cfe7c5d17b780119c0d2d39ef596720ededfc66874a15c0"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "2172dac050089599167944034833c8efb6f24847ff6bb0a00e9f791c7b887386"
 metafile = true
@@ -487,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "a6d419338531d6b7934becd22a9e8351f3038cd5e01aa3d5145a5c2fb3023543"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "23094702ea97f590631f42ab202697fd0810701f8f5475b838475e81aeec6d11"
 metafile = true
 
 [[files]]
@@ -572,16 +607,6 @@ metafile = true
 [[files]]
 file = "mods/jukebox-custom-disc-fix.pw.toml"
 hash = "4604dbe4dd0de768eb14353aeacb2c0c29cbc23147eef3bee3c3bc7684fd81f2"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "f425b95393839adce95e833287aa3b84b22a3d16493bb67b55e9be1299f48533"
-metafile = true
-
-[[files]]
-file = "mods/justenoughbreeding.pw.toml"
-hash = "1fbdf1d31a8d0de9b6fda3fd20abba34e108930c808a29a0e6a3a1004f20510e"
 metafile = true
 
 [[files]]
@@ -977,21 +1002,6 @@ metafile = true
 [[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "7a9d9b8df9cfc1963d6053a026c701b497a9dadd1e15a4471ee8d8b09d0cfaf7"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "e38945b50b973d994c16480820661aada73212ed7e60fafdbf17b0e7f6740378"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "277b5cbb0f5c2fbd1398e13f290e13244e3fad8f818f2181575f9c997284c59b"
 metafile = true
 
 [[files]]
