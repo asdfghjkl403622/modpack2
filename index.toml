@@ -840,11 +840,6 @@ hash = "e9e7e6a1b2f05f2451e9d4072135147bcd1814a180dc15137ea4c15f65241093"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "4cee088bfe934c92a726955d4fc6f46828b4a92e54204dfa2742b54d2291e4c4"
 metafile = true
