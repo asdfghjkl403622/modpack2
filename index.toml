@@ -370,21 +370,6 @@ hash = "d64dbc3c23e6d9ec4597cf7b917ebd8123218c03936da18414a14a4179aed090"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "8a0376d17bc64c6fc4d3097b20daf4c5da22735fafb4d5b2dc90a074694ffae1"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "d83cb449f28672c09c80987e2321bfa13aa6127a814ef6007185575ba0173e0a"
-metafile = true
-
-[[files]]
 file = "mods/distorteddiscs.pw.toml"
 hash = "a9390b3e79c9c93df9e1dea1dbc050ee53ffc0c05f13b8af0d5197868b6ad8c9"
 metafile = true
@@ -912,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "6a08b6fbc58291eba0bbca305a4f6b1ba2a703ef21eff995b3df278c5725c1f6"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "06ac74f0c4cece4c235023ea30fc8d059342ab0378a0b98ff8637bbb35ee3825"
 metafile = true
 
 [[files]]
