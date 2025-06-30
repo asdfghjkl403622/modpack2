@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bagus-lib.pw.toml"
-hash = "d4d9ba0b0625572a639cb88b56635688176e3929fd5d7ae9630dbdaac2b1429d"
+hash = "72b6ced8577a1ff7265467e92cf919ca4ccff924f97d0102d9eee6270b3b2bb9"
 metafile = true
 
 [[files]]
