@@ -600,6 +600,11 @@ hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
+metafile = true
+
+[[files]]
 file = "mods/jukebox-custom-disc-fix.pw.toml"
 hash = "4604dbe4dd0de768eb14353aeacb2c0c29cbc23147eef3bee3c3bc7684fd81f2"
 metafile = true
