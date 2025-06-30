@@ -885,6 +885,11 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "667dacb1193a887bc068a3c819839e06c82959d2ba61c85736296420ed334579"
+metafile = true
+
+[[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "87f3ec2b65da8fedcf571b8e172b2e32f76f249e7f83ff055caecc69e9d27182"
 metafile = true
