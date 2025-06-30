@@ -635,6 +635,11 @@ hash = "714b1b257f95d4d3d70b1da8d54f093f5c5d1a49dff8224f8b79051b161501af"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "27778be66f8c825ab12d72c76cf39163c9e4b083a7956049ebda1d66ed2ad99c"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -1031,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
