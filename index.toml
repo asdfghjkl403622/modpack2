@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -155,13 +155,13 @@ hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
 metafile = true
 
 [[files]]
-file = "mods/cakes-cosmetics.pw.toml"
-hash = "08436b224ddf773e3a3557a0812b5891aa5a57bc9541c6549c3696c00ad15ec7"
+file = "mods/building-wands.pw.toml"
+hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-evolved.pw.toml"
-hash = "fa52f73b4a98378092e9194dc325e98f9339c2855d1ada185e8c3ba004ea39cb"
+file = "mods/cakes-cosmetics.pw.toml"
+hash = "08436b224ddf773e3a3557a0812b5891aa5a57bc9541c6549c3696c00ad15ec7"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -252,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
 hash = "e4783078375411368741c2c8d3dcebfc671cce1cc504a3418279327fce3c39f1"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "408e7f666994cbf9aff9befa4d4e9ef33eadf913760cabe3d16fb5df3b166bd5"
 metafile = true
 
 [[files]]
@@ -997,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "9bdb271dbb28d79131ce6e4a341ef9eb0843b9d36852fbcb4bb151a5417f6d7e"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
 metafile = true
 
 [[files]]
