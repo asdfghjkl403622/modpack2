@@ -1,0 +1,13 @@
+name = "Reactive Alchemy"
+filename = "reactive-1.20.1-7d.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/soWqucCB/versions/HVlML6Po/reactive-1.20.1-7d.jar"
+hash-format = "sha512"
+hash = "3632682c7429e76a313b14b3abbaddacea67c15c84f077ed0d53f7523b007f1c1357359cb326f05ef63203551d15a28946b49415f3986abfd364e16ce34e3196"
+
+[update]
+[update.modrinth]
+mod-id = "soWqucCB"
+version = "HVlML6Po"
