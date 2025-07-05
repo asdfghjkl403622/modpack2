@@ -985,11 +985,6 @@ hash = "bd33f76ad3bbe85b586ee3980eb9099db7696b4aa236b61a80b5a3977805a65c"
 metafile = true
 
 [[files]]
-file = "mods/reactive.pw.toml"
-hash = "82fb50eef9b9f4213c841892abb73e7b623d1a67bcfc296a6f892fb738feee27"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-chipped.pw.toml"
 hash = "7dcd9a76d74b57f0fba9444a4320dd3105fad49ec46fc4b9ad4c0f3d250abcca"
 metafile = true
