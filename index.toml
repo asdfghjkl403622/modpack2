@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
@@ -992,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "b33e8cd1a5634fc9bf75c39ea283f74cc20aaae25da876682393336aa212c638"
+metafile = true
+
+[[files]]
+file = "mods/reactive.pw.toml"
+hash = "a4df7b868e3abe2404aeef84486b0a09d6328880508ad9851b55ce8fa01f179c"
 metafile = true
 
 [[files]]
