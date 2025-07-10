@@ -310,6 +310,11 @@ hash = "e28ad23aa941b216a9cd44dc5f9a5c0a1d72f9b2a86437e4db41bd073cd0e2cf"
 metafile = true
 
 [[files]]
+file = "mods/create-netherrack.pw.toml"
+hash = "d9d08947b48f11194771c14d806d0814a56307a6364798a3c8c880e6ba9c963f"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "255864fc7aa8e28619e5ddbf9094623bfcc9d6caa260bc0cd3d32b39d45a532f"
 metafile = true
@@ -546,12 +551,12 @@ metafile = true
 
 [[files]]
 file = "mods/goated.pw.toml"
-hash = "43cb463e7f9da338a1124031efa35ba8b5ed75b1f2796f066b5b324e85c17738"
+hash = "4fbf0faf3319add9a4e00dbd0250a7a32ceee12d7df9995774d759dc08539c21"
 metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
+hash = "505f977e07c140709abf88b890313a65b01116a1ee1b0c15f0ef479cbf00cd89"
 metafile = true
 
 [[files]]
@@ -726,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
+hash = "dd8c35f46e1998175f993fa3acfc8b17600a1c031d62e273474232299d698afa"
 metafile = true
 
 [[files]]
@@ -796,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "771613352812f69450e49a359aa0a4cae676ed2a3c4b6c5a120c736364b15d7d"
+hash = "93261366422f3358126df561a57ae6e2d93bd11600d9fbaba5f866ec52a319f0"
 metafile = true
 
 [[files]]
@@ -996,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/reactive.pw.toml"
-hash = "a4df7b868e3abe2404aeef84486b0a09d6328880508ad9851b55ce8fa01f179c"
+hash = "08d8ffc6321e050ea3386102683626d3f6facbce8bd0bedd6bb9f9deaa599fb0"
 metafile = true
 
 [[files]]
@@ -1026,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
+hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
 
 [[files]]
@@ -1091,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f6c954e1a4975019ca2378277aad87f2283aef9bf572ef8ccf59897449c752b2"
+hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
 metafile = true
 
 [[files]]
