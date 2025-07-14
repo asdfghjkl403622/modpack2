@@ -175,6 +175,11 @@ hash = "b04f3690005952fb2f0d93b742a00d4b25547cbb4e2975aaca89fb0af58a9539"
 metafile = true
 
 [[files]]
+file = "mods/chance-cubes.pw.toml"
+hash = "24369116815f59fd0920d413f31dea816a7c834cd3a439741d6e78a8fbaed2de"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d562d034b94bf5e26846192868d9359369b6e24bacdd4483776fa909be04301c"
 metafile = true
