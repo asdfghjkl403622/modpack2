@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0d2af99a5efb2c1ec10180c7c91d8469c0b7eacd7b186432485e61a51fae2d29"
+hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-network.pw.toml"
-hash = "aab540c44fcfc7f737afd3af1f63c70e32b15826c7d8c2d12b5f7c40e13d05ca"
+hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "0bef23b7ca1ad721adb29acaa711ac556b1e0be728b6c1bced5aa36cb9c4db65"
+hash = "7c706c1882e8859b35a7f6c933c0247d31e10e9f0da634c3b2d85915be9a5f21"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "a6d419338531d6b7934becd22a9e8351f3038cd5e01aa3d5145a5c2fb3023543"
+hash = "68d6b99dba02785678b7e7aabaa47294e3c65564403f8de3bf5a5af8bb11de18"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+hash = "5290e7961ab2ca528b8bf3fecfbcb33240029314fd7cb2086c06c3ee13daf1fc"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "714b1b257f95d4d3d70b1da8d54f093f5c5d1a49dff8224f8b79051b161501af"
+hash = "f618ae45f80532409d1c2b5a473320f54619540580c3f51160f44927ade0ee6a"
 metafile = true
 
 [[files]]
@@ -741,12 +741,12 @@ metafile = true
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"
-hash = "32a860fc90a032dd189bcb8dbed06bfb00a6007940d1e473e6c15cf4c6271280"
+hash = "bc6a2458b8337e76c0636142242ef36f75ff13e65f977fdd81bb5cc823e5b360"
 metafile = true
 
 [[files]]
 file = "mods/majruszs-enchantments.pw.toml"
-hash = "58fd12d70604b2317f608e51eb73e44c7a1b26d254a50b25f9e12be0138aa7a8"
+hash = "e15076021a888aa4c0d5320c3c1bb97d5ff882b7596453b07b78cce462036178"
 metafile = true
 
 [[files]]
@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "63aeaa23a93fedb11b84d12e1b5a11b65cf266c191b75d52a6a15b8f7654539a"
+hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
 metafile = true
 
 [[files]]
